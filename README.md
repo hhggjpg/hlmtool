@@ -63,7 +63,7 @@
 **方式二：git clone**
 
 ```bash
-git clone [https://github.com/hhggjpg/hlmtool]
+git clone [git clone https://github.com/hhggjpg/hlmtool.git]
 cd hlmtool
 ```
 
