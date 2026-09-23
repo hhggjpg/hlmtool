@@ -40,6 +40,7 @@
 ![关系图](output/关系图_全图.png)
 
 （上图由 `scripts/draw_graph.py` 自动生成）
+
 ---
 
 ## 二、环境要求
@@ -63,7 +64,7 @@
 **方式二：git clone**
 
 ```bash
-git clone [https://github.com/hhggjpg/hlmtool.git]
+git clone https://github.com/hhggjpg/hlmtool.git
 cd hlmtool
 ```
 
