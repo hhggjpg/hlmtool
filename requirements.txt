@@ -1,0 +1,4 @@
+openai==3.14.1
+python-dotenv==1.2.3
+networkx==3.7
+matplotlib==3.11.2

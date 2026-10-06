@@ -1,0 +1,156 @@
+001 完成 | prompt=5865 completion=17283 total=23148
+002 完成 | prompt=4812 completion=27468 total=32280
+003 完成 | prompt=6514 completion=28144 total=34658
+004 完成 | prompt=4538 completion=20348 total=24886
+005 完成 | prompt=6387 completion=18268 total=24655
+
+===== 运行开始 2026-09-21 18:46:10 | 提示词=prompts/v2_生成现有数据.txt =====
+
+===== 运行开始 2026-10-04 19:46:32 | 提示词=prompts/v2_生成现有数据.txt =====
+001 完成 | prompt=6610 completion=20383 total=26993
+002 完成 | prompt=4968 completion=21713 total=26681
+003 完成 | prompt=6776 completion=28351 total=35127
+004 完成 | prompt=4748 completion=18211 total=22959
+005 完成 | prompt=6236 completion=28306 total=34542
+006 完成 | prompt=5271 completion=26387 total=31658
+007 完成 | prompt=5363 completion=26886 total=32249
+008 完成 | prompt=4807 completion=21385 total=26192
+009 完成 | prompt=4498 completion=28240 total=32738
+010 完成 | prompt=3882 completion=23334 total=27216
+011 完成 | prompt=4389 completion=20587 total=24976
+
+===== 运行开始 2026-10-04 20:06:25 | 提示词=prompts/v2_生成现有数据.txt =====
+012 完成 | prompt=3461 completion=19099 total=22560
+013 完成 | prompt=4206 completion=24902 total=29108
+014 完成 | prompt=4620 completion=28650 total=33270
+015 完成 | prompt=4063 completion=19419 total=23482
+016 完成 | prompt=5945 completion=65536 total=71481
+017 完成 | prompt=7585 completion=25288 total=32873
+018 完成 | prompt=5934 completion=24690 total=30624
+019 完成 | prompt=6777 completion=28376 total=35153
+020 完成 | prompt=4042 completion=29568 total=33610
+021 完成 | prompt=4799 completion=19657 total=24456
+
+===== 运行开始 2026-10-04 20:26:27 | 提示词=prompts/v2_生成现有数据.txt =====
+022 完成 | prompt=5457 completion=23862 total=29319
+023 完成 | prompt=4301 completion=29455 total=33756
+024 完成 | prompt=6415 completion=29458 total=35873
+025 完成 | prompt=6227 completion=27446 total=33673
+026 完成 | prompt=5485 completion=32991 total=38476
+027 完成 | prompt=4895 completion=19866 total=24761
+028 完成 | prompt=6992 completion=34612 total=41604
+029 完成 | prompt=6420 completion=22917 total=29337
+030 完成 | prompt=4408 completion=26348 total=30756
+031 完成 | prompt=5292 completion=20431 total=25723
+
+===== 运行开始 2026-10-04 20:46:29 | 提示词=prompts/v2_生成现有数据.txt =====
+032 完成 | prompt=4296 completion=16848 total=21144
+033 完成 | prompt=3731 completion=19831 total=23562
+034 完成 | prompt=5446 completion=22069 total=27515
+035 完成 | prompt=5941 completion=28938 total=34879
+036 完成 | prompt=5080 completion=21377 total=26457
+037 完成 | prompt=7087 completion=20047 total=27134
+038 完成 | prompt=4565 completion=17655 total=22220
+039 完成 | prompt=4680 completion=12020 total=16700
+040 完成 | prompt=7050 completion=20838 total=27888
+041 完成 | prompt=5049 completion=23565 total=28614
+042 完成 | prompt=5759 completion=29596 total=35355
+043 完成 | prompt=5036 completion=26803 total=31839
+
+===== 运行开始 2026-10-04 21:06:32 | 提示词=prompts/v2_生成现有数据.txt =====
+044 完成 | prompt=5201 completion=18871 total=24072
+045 完成 | prompt=5828 completion=31977 total=37805
+046 完成 | prompt=5970 completion=24598 total=30568
+047 完成 | prompt=5520 completion=19530 total=25050
+048 完成 | prompt=5137 completion=23265 total=28402
+049 完成 | prompt=5640 completion=28044 total=33684
+050 完成 | prompt=5489 completion=26567 total=32056
+051 完成 | prompt=5293 completion=25983 total=31276
+052 完成 | prompt=6289 completion=29337 total=35626
+053 完成 | prompt=6726 completion=22254 total=28980
+
+===== 运行开始 2026-10-04 21:26:33 | 提示词=prompts/v2_生成现有数据.txt =====
+054 完成 | prompt=6586 completion=29426 total=36012
+055 完成 | prompt=6045 completion=25144 total=31189
+056 完成 | prompt=6382 completion=16184 total=22566
+057 完成 | prompt=8217 completion=43524 total=51741
+058 完成 | prompt=5545 completion=24076 total=29621
+059 完成 | prompt=3933 completion=18824 total=22757
+060 完成 | prompt=5771 completion=26806 total=32577
+061 完成 | prompt=5013 completion=23245 total=28258
+062 完成 | prompt=9013 completion=20167 total=29180
+063 完成 | prompt=8668 completion=30261 total=38929
+064 完成 | prompt=7411 completion=19054 total=26465
+
+===== 运行开始 2026-10-04 21:46:35 | 提示词=prompts/v2_生成现有数据.txt =====
+065 完成 | prompt=5353 completion=21768 total=27121
+066 完成 | prompt=4051 completion=24380 total=28431
+067 完成 | prompt=6692 completion=30054 total=36746
+068 完成 | prompt=5778 completion=22067 total=27845
+069 完成 | prompt=5799 completion=21509 total=27308
+070 完成 | prompt=4985 completion=29146 total=34131
+071 完成 | prompt=6874 completion=22363 total=29237
+072 完成 | prompt=5624 completion=25852 total=31476
+073 完成 | prompt=5701 completion=35972 total=41673
+074 完成 | prompt=8151 completion=28186 total=36337
+
+===== 运行开始 2026-10-04 22:06:38 | 提示词=prompts/v2_生成现有数据.txt =====
+075 完成 | prompt=7365 completion=29353 total=36718
+076 完成 | prompt=5801 completion=25490 total=31291
+077 完成 | prompt=7883 completion=29893 total=37776
+078 完成 | prompt=8601 completion=24329 total=32930
+079 完成 | prompt=3782 completion=26249 total=30031
+080 完成 | prompt=5367 completion=21432 total=26799
+081 完成 | prompt=5059 completion=28307 total=33366
+082 完成 | prompt=6114 completion=34665 total=40779
+083 完成 | prompt=5994 completion=27294 total=33288
+084 完成 | prompt=5678 completion=26802 total=32480
+
+===== 运行开始 2026-10-04 22:26:40 | 提示词=prompts/v2_生成现有数据.txt =====
+085 完成 | prompt=5923 completion=65536 total=71459
+086 完成 | prompt=5101 completion=21718 total=26819
+087 完成 | prompt=5133 completion=19711 total=24844
+088 完成 | prompt=4934 completion=27248 total=32182
+089 完成 | prompt=4479 completion=20371 total=24850
+090 完成 | prompt=4590 completion=23534 total=28124
+091 完成 | prompt=4105 completion=18447 total=22552
+092 完成 | prompt=5296 completion=29610 total=34906
+093 完成 | prompt=4942 completion=28197 total=33139
+094 完成 | prompt=6119 completion=21666 total=27785
+
+===== 运行开始 2026-10-04 22:46:44 | 提示词=prompts/v2_生成现有数据.txt =====
+095 完成 | prompt=5051 completion=24490 total=29541
+096 完成 | prompt=4886 completion=17590 total=22476
+097 完成 | prompt=7276 completion=35130 total=42406
+098 完成 | prompt=4471 completion=15605 total=20076
+099 完成 | prompt=4660 completion=20524 total=25184
+100 完成 | prompt=4165 completion=25669 total=29834
+101 完成 | prompt=5944 completion=28697 total=34641
+102 完成 | prompt=3934 completion=25476 total=29410
+103 完成 | prompt=5270 completion=22926 total=28196
+104 完成 | prompt=4635 completion=28571 total=33206
+105 完成 | prompt=4329 completion=23903 total=28232
+
+===== 运行开始 2026-10-04 23:06:46 | 提示词=prompts/v2_生成现有数据.txt =====
+106 完成 | prompt=4438 completion=30385 total=34823
+107 完成 | prompt=4827 completion=24119 total=28946
+108 完成 | prompt=5184 completion=25020 total=30204
+109 完成 | prompt=6638 completion=30050 total=36688
+110 完成 | prompt=4942 completion=26219 total=31161
+111 完成 | prompt=5455 completion=16355 total=21810
+112 完成 | prompt=5284 completion=24091 total=29375
+113 完成 | prompt=5103 completion=23352 total=28455
+114 完成 | prompt=3800 completion=19458 total=23258
+115 完成 | prompt=5131 completion=23854 total=28985
+116 完成 | prompt=5055 completion=26514 total=31569
+
+===== 运行开始 2026-10-04 23:26:50 | 提示词=prompts/v2_生成现有数据.txt =====
+117 完成 | prompt=5590 completion=31582 total=37172
+118 完成 | prompt=5623 completion=25542 total=31165
+119 完成 | prompt=6954 completion=25667 total=32621
+120 完成 | prompt=5983 completion=38262 total=44245
+
+===== 运行开始 2026-10-05 22:35:35 | 提示词=prompts/v2_生成现有数据.txt =====
+016 完成 | prompt=5945 completion=31197 total=37142
+085 完成 | prompt=5923 completion=65538 total=71461
+085 分段补抽完成 | 分2段 | 人物25 关系29 | total=42253
