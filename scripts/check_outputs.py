@@ -1,6 +1,11 @@
 # 体检 + 统一格式：读入全部 JSON，报告数量，再统一写成缩进格式
 import json
 import os
+import sys
+
+# Windows 中文终端默认是 GBK 编码，打不出下面的 ⚠️ ❌ 符号，会直接报错退出。
+# 这一行让本脚本的输出统一走 UTF-8，什么符号都打得出来。
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 for f in sorted(os.listdir("output")):
     if not f.endswith(".json"):

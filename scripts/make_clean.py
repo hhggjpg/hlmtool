@@ -1,5 +1,10 @@
-# 生成 data/clean/：因为前 5 回原文不需要清洗，这里先"原样复制"一份，并逐字核对
+# 生成 data/clean/：因为原文不需要清洗，这里先"原样复制"一份，并逐字核对
 import os
+import sys
+
+# Windows 中文终端默认是 GBK 编码，打不出下面用到的 ❌ 符号，会直接报错退出。
+# 这一行让本脚本的输出统一走 UTF-8，什么符号都打得出来。
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 for f in sorted(os.listdir("data/raw")):
     if not f.endswith(".txt"):
